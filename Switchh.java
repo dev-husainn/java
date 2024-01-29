@@ -6,7 +6,7 @@
 
 /* ------------------------------------ . ----------------------------------- */
 
-/*public class Switchh{
+public class Switchh{
     public static void main(String[]args){
         int days = 4;
         switch(days){
@@ -30,7 +30,7 @@
             
         }
     }
-} */
+} 
 //Note that if the default statement is used as the last statement  in a switch block, it does not need a break
 
 /* ------------------------------------ . ----------------------------------- */
