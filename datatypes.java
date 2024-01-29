@@ -1,22 +1,22 @@
 /* ------------------------------- Data Types ------------------------------- */
 
-// public class datatypes {
-//     public static void main(String[] args) {
-//       int myNum = 5;               // integer (whole number)
-//       float myFloatNum = 5.99f;    // floating point number
-//       char myLetter = 'D';         // character
-//       boolean myBool = true;       // boolean
-//       String myText = "Hello";     // String    
-//       System.out.println(myNum);
-//       System.out.println(myFloatNum);
-//       System.out.println(myLetter);
-//       System.out.println(myBool);
-//       System.out.println(myText);
-//     }
-//   }
+ public class datatypes {
+    public static void main(String[] args) {
+       int myNum = 5;               // integer (whole number)
+      float myFloatNum = 5.99f;    // floating point number
+      char myLetter = 'D';         // character
+      boolean myBool = true;       // boolean
+     String myText = "Hello";     // String    
+     System.out.println(myNum);
+     System.out.println(myFloatNum);
+     System.out.println(myLetter);
+     System.out.println(myBool);
+     System.out.println(myText);
+   }
+}
   
 /* ------------------------------------ x ----------------------------------- */
-/*Integer Types
+Integer Types-------
 
 Byte->
 The byte data type can store whole numbers from -128 to 127. This can be used instead of int or other integer types to save memory when you are certain that the value will be within -128 and 127:
@@ -115,5 +115,5 @@ public class datatypes {
   
 
   /* ------------------------- Non Primitve Data Type ------------------------- */
-  /*Non-Primitive Data Types
+  *Non-Primitive Data Types-->
 Non-primitive data types are called reference types because they refer to objects.Examples of non-primitive types are Strings, Arrays, Classes, Interface, etc.*/
