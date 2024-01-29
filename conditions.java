@@ -2,7 +2,7 @@
 
 /*Use 'if' to specify a block of code to be executed, if a specified condition is true*/
 
- public class conditions {
+ /*public class conditions {
      public static void main(String[] args){
          int num1 = 10;
          if(num1 > 9){
@@ -14,7 +14,7 @@
     
  }
 /* ------------------------------------ - ----------------------------------- */
- public class conditions {
+ /*public class conditions {
      public static void main(String[] args){
          if(20 > 19){
              System.out.println("Yes the num is greater than 19");
@@ -25,7 +25,7 @@
     
  }
 /* ------------------------------------ - ----------------------------------- */
- public class conditions{
+ /*public class conditions{
      public static void main(String[] args){
          int myNum1 = 500;
          int myNum2 = 700;
@@ -39,7 +39,7 @@
 /* --------------------------------- if else -------------------------------- */
 //Use else to specify a block of code to be executed, if the same condition is false.
 
- public class conditions{
+ /*public class conditions{
      public static void main(String[] args){
          int a = 999;
          int b = 888;
@@ -55,7 +55,7 @@
 
 /* ------------------------------------ - ----------------------------------- */
 
-public class conditions{
+/*public class conditions{
     public static void main(String[] args){
         int time = 20;
         if(time > 15){
