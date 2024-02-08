@@ -1,4 +1,8 @@
 // /* ------------------------------- Data Types ------------------------------- */
+/*In Java, data types define the types of data that a variable can hold. 
+ Java is a statically-typed language, which means that the type of a variable must be
+ declared before it can be used.
+ Java's data types can be categorized into two main groups: primitive data types and reference data types.*/
 
   public class datatypes {
      public static void main(String[] args) {
