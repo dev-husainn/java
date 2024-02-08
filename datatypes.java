@@ -4,6 +4,10 @@
  declared before it can be used.
  Java's data types can be categorized into two main groups: primitive data types and reference data types.*/
 
+/*CONSTANTS : ->> In Java, constants are variables whose values should not be changed during the execution of 
+a program.
+They are declared using the final keyword, and their values cannot be modified once they are assigned*/
+
   public class datatypes {
      public static void main(String[] args) {
         int myNum = 5;               // integer (whole number)
