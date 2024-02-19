@@ -1,5 +1,5 @@
 /*-------------------------------- nextInt() -------------------------------- */
- /*import java.util.Scanner;
+ import java.util.Scanner;
 
  public class input {
      public static void main(String[] args){
@@ -56,7 +56,7 @@
 /* ------------------------------------ - ----------------------------------- */
 
 
- sc.next() // ye sirf sentence ke first word ko print krega
+/* sc.next() // ye sirf sentence ke first word ko print krega
  sc.nextLine() // ye pure sentence ko print krega
 */
 
