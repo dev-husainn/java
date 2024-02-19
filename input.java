@@ -1,4 +1,4 @@
-/* --------------------------------- nextInt() -------------------------------- */
+/*-------------------------------- nextInt() -------------------------------- */
  /*import java.util.Scanner;
 
  public class input {
@@ -16,9 +16,9 @@
     
  }
 
-/* ----------------------------------nextInt()--------------------------------------- */
+ ----------------------------------nextInt()--------------------------------------- 
 
-  /* import java.util.Scanner;
+  import java.util.Scanner;
 
  public class input{
      public static void main(String[] args){
@@ -33,7 +33,7 @@
 
      }
 }
-        */
+        
 
 /* ------------------------------- nextFloat() --------------------------------- */
 
@@ -55,7 +55,7 @@
 
 /* ------------------------------------ - ----------------------------------- */
 
-/*
+
  sc.next() // ye sirf sentence ke first word ko print krega
  sc.nextLine() // ye pure sentence ko print krega
 */
